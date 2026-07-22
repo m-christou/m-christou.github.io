@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Education 
-
 ====== 
 
 * **PhD** in Philosophy of Science, Johannes Kepler University, Linz, December 2026 (expected) 
@@ -28,15 +27,12 @@ Education
  
 
 Teaching Experience 
-
 ====== 
 
 * Philosophy of Science 
 
   * Johannes Kepler University 
-
   * Topics: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology, Explanation, Induction, Values in Science 
-
   * Summer Semester: 2025  
 
  
