@@ -40,9 +40,7 @@ Teaching Experience
 * Critical Thinking (and Foundations of Philosophy) 
 
   * Johannes Kepler University 
-
   * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News 
-
   * Summer Semester: 2024, 2026; Winter Semester: 2024 
 
  
@@ -50,9 +48,7 @@ Teaching Experience
 * Fundamentals of Philosophy of Medicine 
 
   * Faculty of Medicine, Johannes Kepler University 
-
   * Topics: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments, Objectivity in Medicine 
-
   * Winter Semester: 2024, 2025, 2026 
 
  
@@ -60,19 +56,12 @@ Teaching Experience
 * Philosphy of Social Science 
 
   * Johannes Kepler University 
-
-  * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, 
-
-            Epistemic Injustice, Social Policy and Well Being 
-
+  * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, Epistemic    Injustice, Social Policy and Well Being 
   * Winter Semester: 2026 
-
-   
 
  
 
 Conferences/Talks/Workshops 
-
 ====== 
 
 * **Scientific Observation: Data, Phenomena, and Inconsistency Toleration** (POSTER)
