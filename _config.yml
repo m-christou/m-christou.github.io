@@ -23,7 +23,7 @@ repository               : "m-christou/m-christou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Michalis Christou"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in philosopher of science and logic, examining the dynamics of contradicitons in science"
