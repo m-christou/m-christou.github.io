@@ -4,13 +4,14 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Philosophy of Social Science
 venue: "Johannes Kepler University (JKU), Linz"
-Semesters taught: "Winter Semester 2026"
+Semesters taught: "Summer Semester 2026"
 date: 2026-01-01
 #location: "City, Country"
 ---
 
 Description
 ======
+
 (Co-taught with Dr. William Peden)
 
 The course explores philosophical questions in the social sciences. In Part 1, we
@@ -27,10 +28,12 @@ the social sciences justifiably attain the authoritative status of the natural s
 
 Topics
 ======
+
 How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, Epistemic Injustice, Social Policy and Well Being
 
 Assesment
 ======
+
 Class Participation
 Essay assessment
 Oral exams
