@@ -108,7 +108,6 @@ Conferences/Talks/Workshops
  
 
 Other Academic Activities 
-
 ====== 
 
 * Organising Committee and Chairing Sessions 
@@ -127,7 +126,6 @@ Other Academic Activities
  
 
 Prizes/Certificates 
-
 ====== 
 
 * Prize for the Best Undergraduate (Honours) First Class Performance in Philosophy in Stirling University 
@@ -144,7 +142,6 @@ Department
 
  
 Languages 
-
 ====== 
 
 + **Greek** - Native 
