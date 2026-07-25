@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Philosophy of Science
 venue: "Johannes Kepler University (JKU), Linz"
-Semesters taught: "Summer Semester 2025"
 date: 2025-03-01
 #location: "City, Country"
 ---
@@ -24,6 +23,7 @@ economists, political scientists etc. as having special expertise? Why should ma
 decisions in public policy be informed by the social sciences? To what extent can
 the social sciences justifiably attain the authoritative status of the natural sciences?
 
+**Semesters taught**: Summer Semester 2025
 
 Topics
 ======
@@ -32,6 +32,6 @@ Pseudoscience and Falsifiability, Paradigms and Scientific Revolutions, Feminist
 
 Assesment
 ======
-Class Participation
-Essay assessment
-Oral exams
++ Class Participation
++ Essay assessment
++ Oral exams

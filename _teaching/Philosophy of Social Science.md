@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Philosophy of Social Science
 venue: "Johannes Kepler University (JKU), Linz"
-Semesters taught: "Summer Semester 2026"
 date: 2026-01-01
 #location: "City, Country"
 ---
@@ -25,6 +24,7 @@ economists, political scientists etc. as having special expertise? Why should ma
 decisions in public policy be informed by the social sciences? To what extent can
 the social sciences justifiably attain the authoritative status of the natural sciences?
 
+**Semesters taught**: Summer Semester 2026
 
 Topics
 ======
@@ -34,6 +34,6 @@ How do the Social Sciences Explain, Values in Science, Experimentation and Socia
 Assesment
 ======
 
-Class Participation
-Essay assessment
-Oral exams
++ Class Participation
++ Essay assessment
++ Oral exams
