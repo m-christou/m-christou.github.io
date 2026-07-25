@@ -131,8 +131,7 @@ Prizes/Certificates
 * Prize for the Best Undergraduate (Honours) First Class Performance in Philosophy in Stirling University 
 
 * The Faculty Prize for the Highest Undergraduate Honours Dissertation Mark across the Law and Philosophy  
-
-Department  
+  Department  
 
 * Certificate of Academic Excellence (Highest Undergraduate Module Grade) in Philosophy of Mind  
 
