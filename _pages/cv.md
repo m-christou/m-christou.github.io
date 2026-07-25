@@ -33,7 +33,6 @@ Teaching Experience
 
   * Johannes Kepler University 
   * Topics: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology, Explanation, Induction, Values in Science 
-  * Summer Semester: 2025  
 
  
 
@@ -41,8 +40,7 @@ Teaching Experience
 
   * Johannes Kepler University 
   * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News
-  Science and Pseudoscience 
-  * Summer Semester: 2024, 2026; Winter Semester: 2024 
+  Science and Pseudoscience
 
  
 
@@ -50,7 +48,6 @@ Teaching Experience
 
   * Faculty of Medicine, Johannes Kepler University 
   * Topics: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments, Objectivity in Medicine 
-  * Winter Semester: 2024, 2025, 2026 
 
  
 
@@ -58,8 +55,6 @@ Teaching Experience
 
   * Johannes Kepler University 
   * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, Epistemic    Injustice, Social Policy and Well Being 
-  * Winter Semester: 2026 
-
  
 
 Conferences/Talks/Workshops 
@@ -106,8 +101,6 @@ Conferences/Talks/Workshops
 
  
 
- 
-
 Other Academic Activities 
 ====== 
 
@@ -121,8 +114,6 @@ Other Academic Activities
 * Reviewer 
 
   * <a href="https://principia.ufsc.br/journal/">Principia: An International Journal of Epistemology</a> 
-
- 
 
  
 
