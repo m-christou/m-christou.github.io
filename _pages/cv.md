@@ -40,7 +40,8 @@ Teaching Experience
 * Critical Thinking (and Foundations of Philosophy) 
 
   * Johannes Kepler University 
-  * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News 
+  * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News
+  Science and Pseudoscience 
   * Summer Semester: 2024, 2026; Winter Semester: 2024 
 
  
