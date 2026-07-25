@@ -1,7 +1,7 @@
 ---
 title: "Philosophy of Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Masters and Undergraduate course"
 permalink: /teaching/Philosophy of Science
 venue: "Johannes Kepler University (JKU), Linz"
 date: 2025-03-01

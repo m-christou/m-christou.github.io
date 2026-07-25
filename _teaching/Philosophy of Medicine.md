@@ -24,5 +24,5 @@ Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, 
 Assesment
 ======
 
-+ Semiinar Paper Presentation
++ Seminar Paper Presentation
 + Multiple choice exam
