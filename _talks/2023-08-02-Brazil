@@ -1,0 +1,28 @@
+---
+title: "How inconsistent theories were (logically) dealt with in the history of science, and how we can use that knowledge for today’s scientific methodology"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-08-02-Brazil
+Conferece: "13th Principia International Symposium Florianópolis"
+venue: "Epistemology and Logic Research Group, Federal University of Santa Catarina"
+date: 2025-08-02
+location: "Florianopolis, Brazil"
+---
+
+
+
+
+
+**Abstract**
+
+In this paper I am going to argue that in the history of science there were cases where
+scientists, willingly or not, were reasoning non-classically. Moreover, looking into this
+will enable the development of a non-classical logical tool which can be used in science
+today.
+
+I begin with two assumptions that I think are generally accepted: 1. classical logic cannot accept a contradiction (because of logical explosion), and 2. the scientific method requires an underlying logic which will govern scientific reasoning. Following these assumptions, first I will provide an illustration of the issue: throughout the history of science, some scientific theories, at least at some point in their development, were inconsistent. Theories were either internally inconsistent, inconsistent with other (accepted) theories, or inconsistent with observation (where theory T predicted observable a, but after experiment it was observed that ¬a). Scientists were sometimes not aware of these inconsistencies. I will show that this, however, did not always force them to immediately abandon them. In fact, sometimes they did not even stop using them, and occasionally successfully so. Some were conscious of the inconsistency but ignored it and proceeded with working with the theory, and some were not conscious of it and kept using the theory.
+
+A preliminary question arising is “How were the scientists able to work with inconsistent theories, and thus reason with them, without resulting in logical explosion and the ‘complete breakdown of science’ since the underlying logic of their inferences was classical?”. After establishing the existence of inconsistencies in science, which means that scientists did in fact sometimes reason on the basis of inconsistent theories, I will
+explain how we can accommodate for the preservation of validity in such cases under a suitable logical framework. Since contradictions are part of the development of some scientific theories, as it will be shown, we need to have at our disposal a logical tool which we can use to deal with them rationally.
+
+I will put forward the idea that the underlying logic behind scientific reasoning was not classical. In fact, scientists, whether they were aware of it or not, were reasoning in a non-classical way. To further support this, I will explicate the basic tenets of a non-classical (paraconsistent) logic, which is inconsistency-tolerant and not explosive. A second question arising is “If science follows logic (assumption 2), and if science purports to provide a picture of the empirical world, does the use of an inconsistency toleration logic entail that the world involves inconsistent empirical phenomena?”. I respond by arguing that using a (paraconsistent) logical tool to help scientists in their reasoning does not necessarily commit them in believing in the existence of a contradictory empirical world. In the final part, I want to focus on the potential outcomes of such research. Paraconsistent scientific reasoning is not only a tool to explain the way science has been conducted in the past and the logic behind it, but it should also be adopted and used by scientists today.
