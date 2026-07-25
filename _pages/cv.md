@@ -24,39 +24,8 @@ Education
    * **Dissertation title:** : Solving the Paradox of Being: Being’s relation to Nothingness, its manifestation through art, and its dialetheic nature 
    * **Supervisor:** prof. Mike Wheeler 
 
- 
-
-Teaching Experience 
-====== 
-
-* Philosophy of Science 
-
-  * Johannes Kepler University 
-  * Topics: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology, Explanation, Induction, Values in Science 
 
  
-
-* Critical Thinking (and Foundations of Philosophy) 
-
-  * Johannes Kepler University 
-  * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News
-  Science and Pseudoscience
-
- 
-
-* Fundamentals of Philosophy of Medicine 
-
-  * Faculty of Medicine, Johannes Kepler University 
-  * Topics: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments, Objectivity in Medicine 
-
- 
-
-* Philosphy of Social Science 
-
-  * Johannes Kepler University 
-  * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, Epistemic    Injustice, Social Policy and Well Being 
- 
-
 Conferences/Talks/Workshops 
 ====== 
 
@@ -99,6 +68,38 @@ Conferences/Talks/Workshops
     * University of Lisbon, Portugal 
         * July 2023 
 
+
+
+Teaching Experience 
+====== 
+
+* Philosophy of Science 
+
+  * Johannes Kepler University 
+  * Topics: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology, Explanation, Induction, Values in Science 
+
+ 
+
+* Critical Thinking (and Foundations of Philosophy) 
+
+  * Johannes Kepler University 
+  * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News
+  Science and Pseudoscience
+
+ 
+
+* Fundamentals of Philosophy of Medicine 
+
+  * Faculty of Medicine, Johannes Kepler University 
+  * Topics: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments, Objectivity in Medicine 
+
+ 
+
+* Philosphy of Social Science 
+
+  * Johannes Kepler University 
+  * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy, Epistemic    Injustice, Social Policy and Well Being 
+ 
  
 
 Other Academic Activities 
