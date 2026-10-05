@@ -8,9 +8,9 @@ date: 2025-03-01
 #location: "City, Country"
 ---
 
-aaa
+-_-_-
 
-Descriptionl
+Description
 ======
 
 This course teaches critical thinking, i.e. the art of deriving judgments from facts, in the philosophical tradition that goes back to Socrates. Particular attention is paid to good argumentation, the psychological foundations of thinking, dealing with scientific evidence, the rationality of thinking and acting, and the basics of rhetoric.
